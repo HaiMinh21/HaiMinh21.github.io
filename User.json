@@ -1,0 +1,16 @@
+{
+  "User":[
+    {
+      "id": 1,
+      "userName": "hai",
+      "Password": "123",
+      "IMG" : "https://www.emmegi.co.uk/wp-content/uploads/2019/01/User-Icon.jpg"
+    },
+    {
+      "id": 2,
+      "userName": "tien",
+      "Password": "123",
+      "IMG" : "https://speedwash.vn/upload/testimotion/10_avatar-512.png"
+    }
+  ]
+}
